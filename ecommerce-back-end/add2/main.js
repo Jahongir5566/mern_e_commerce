@@ -1,3 +1,3 @@
 console.log( )
 console.error( )
-console.clear();
+console.info
